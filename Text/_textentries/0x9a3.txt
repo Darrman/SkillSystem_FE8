@@ -1,0 +1,2 @@
+Spur Luck: Allies within two[N]
+tiles gain +3 (crit) avoid, +2 hit.[X]

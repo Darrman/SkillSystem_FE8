@@ -1,0 +1,2 @@
+Drive Defense: Allies within[N]
+two tiles take -3 physical damage.[X]

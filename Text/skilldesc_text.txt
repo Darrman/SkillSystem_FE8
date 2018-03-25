@@ -601,3 +601,39 @@ to all allies within three tiles.[X]
 ## SD_HeroesDeathBlow
 Death Blow: +6 Attack[N]
 when initiaing battle.[X]
+
+## SD_SpurSkl
+Spur Skill: Adjacent allies[N]
+gain +8 hit, +2 crit.[X]
+
+## SD_SpurLuk
+Spur Luck: Adjacent allies[N]
+gain +4 (crit) avoid, +2 hit.[X]
+
+## SD_DriveStr
+Drive Strength: Allies within[N]
+two tiles deal +3 physical damage.[X]
+
+## SD_DriveSkl
+Spur Skill: Allies within[N]
+two tiles gain +6 hit, +2 crit.[X]
+
+## SD_DriveSpd
+Drive Speed: Allies within[N]
+two tiles gain +3 Attack Speed.[X]
+
+## SD_DriveLuk
+Spur Luck: Allies within two[N]
+tiles gain +3 (crit) avoid, +2 hit.[X]
+
+## SD_DriveDef
+Drive Defense: Allies within[N]
+two tiles take -3 physical damage.[X]
+
+## SD_DriveRes
+Drive Resistance: Allies within[N]
+two tiles take -3 magical damage.[X]
+
+## SD_DriveMag
+Drive Magic: Allies within[N]
+two tiles deal +3 magical damage.[X]

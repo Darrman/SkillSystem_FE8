@@ -148,3 +148,12 @@
 #define IdentityProblemsID 147 //DONE
 #define CharismaID 148 //DONE
 #define HeroesDeathBlowID 149 //DONE
+#define SpurSklID 150
+#define SpurLukID 151
+#define DriveStrID 152
+#define DriveSklID 153
+#define DriveSpdID 154
+#define DriveLukID 155
+#define DriveDefID 156
+#define DriveResID 157
+#define DriveMagID 158

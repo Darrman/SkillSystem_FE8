@@ -26,20 +26,20 @@ SpurMag: //checked in fe8_calc_loop
 POIN AuraSkillCheck
 WORD SpurMagID
 
-// SpurSkl: //checked in fe8_calc_loop
-// #incbin "SpurSkl.dmp"
-// POIN AuraSkillCheck
-// WORD SpurSklID
+SpurSkl: //checked in fe8_calc_loop
+#incbin "SpurSkl.dmp"
+POIN AuraSkillCheck
+WORD SpurSklID
 
 SpurSpd: //checked in fe8_calc_loop
 #incbin "SpurSpd.dmp"
 POIN AuraSkillCheck
 WORD SpurSpdID
 
-// SpurLuk: //checked in fe8_calc_loop
-// #incbin "SpurLuk.dmp"
-// POIN AuraSkillCheck
-// WORD SpurLukID
+SpurLuk: //checked in fe8_calc_loop
+#incbin "SpurLuk.dmp"
+POIN AuraSkillCheck
+WORD SpurLukID
 
 SpurDef: //checked in fe8_calc_loop
 #incbin "SpurDef.dmp"
@@ -50,6 +50,41 @@ SpurRes: //checked in fe8_calc_loop
 #incbin "SpurRes.dmp"
 POIN AuraSkillCheck
 WORD SpurResID
+
+DriveStr: //checked in fe8_calc_loop
+#incbin "DriveStr.dmp"
+POIN AuraSkillCheck
+WORD DriveStrID
+
+DriveMag: //checked in fe8_calc_loop
+#incbin "DriveMag.dmp"
+POIN AuraSkillCheck
+WORD DriveMagID
+
+DriveSkl: //checked in fe8_calc_loop
+#incbin "DriveSkl.dmp"
+POIN AuraSkillCheck
+WORD DriveSklID
+
+DriveSpd: //checked in fe8_calc_loop
+#incbin "DriveSpd.dmp"
+POIN AuraSkillCheck
+WORD DriveSpdID
+
+DriveLuk: //checked in fe8_calc_loop
+#incbin "DriveLuk.dmp"
+POIN AuraSkillCheck
+WORD DriveLukID
+
+DriveDef: //checked in fe8_calc_loop
+#incbin "DriveDef.dmp"
+POIN AuraSkillCheck
+WORD DriveDefID
+
+DriveRes: //checked in fe8_calc_loop
+#incbin "DriveRes.dmp"
+POIN AuraSkillCheck
+WORD DriveResID
 
 Demoiselle:
 #incbin "Demoiselle.dmp"

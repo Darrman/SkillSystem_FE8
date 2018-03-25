@@ -7,5 +7,6 @@ If your skill's up and running, stick a big //DONE next to it.
 Giving your skill an icon and description won't stop it from working, but it won't look quite so nice without it.
 Otherwise, you'll get a glitchy icon and placeholder text.
 Don't forget to edit the skill description CSV so the game can see your description.
+If you're going to have a skill, Nihil will probably negate it. Go to Internals/SkillSystem.event to find the negation list.
 If all goes well, your skill should function in the game!
 -Darrman

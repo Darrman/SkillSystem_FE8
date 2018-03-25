@@ -1,0 +1,2 @@
+Spur Skill: Allies within[N]
+two tiles gain +6 hit, +2 crit.[X]

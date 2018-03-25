@@ -1,0 +1,2 @@
+Drive Speed: Allies within[N]
+two tiles gain +3 Attack Speed.[X]

@@ -189,3 +189,12 @@
 #define SD_IdentityProblems 0x99b
 #define SD_Charisma 0x99c
 #define SD_HeroesDeathBlow 0x99d
+#define SD_SpurSkl 0x99e
+#define SD_SpurLuk 0x99f
+#define SD_DriveStr 0x9a0
+#define SD_DriveSkl 0x9a1
+#define SD_DriveSpd 0x9a2
+#define SD_DriveLuk 0x9a3
+#define SD_DriveDef 0x9a4
+#define SD_DriveRes 0x9a5
+#define SD_DriveMag 0x9a6
