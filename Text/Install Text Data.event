@@ -787,3 +787,11 @@ TxtData0x9a6:
 #incext ParseFile "_textentries\0x9a6.txt"
 setText(0x9a6,TxtData0x9a6)
 
+TxtData0x9a7:
+#incext ParseFile "_textentries\0x9a7.txt"
+setText(0x9a7,TxtData0x9a7)
+
+TxtData0x9a8:
+#incext ParseFile "_textentries\0x9a8.txt"
+setText(0x9a8,TxtData0x9a8)
+

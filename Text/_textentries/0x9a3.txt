@@ -1,2 +1,2 @@
-Spur Luck: Allies within two[N]
-tiles gain +3 (crit) avoid, +2 hit.[X]
+Spur Skill: Allies within[N]
+two tiles gain +6 hit, +2 crit.[X]
