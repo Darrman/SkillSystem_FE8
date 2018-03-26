@@ -1,2 +1,2 @@
-Spur Luck: Adjacent allies[N]
-gain +4 (crit) avoid, +2 hit.[X]
+Catch 'Em All: Grants[N]
+the user every skill.[X]

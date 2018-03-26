@@ -1,2 +1,2 @@
-Spur Skill: Adjacent allies[N]
-gain +8 hit, +2 crit.[X]
+Life and Death: Grants[N]
++5 Atk/Mag/Spd, -5 Def/Res.[X]

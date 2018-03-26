@@ -1,2 +1,2 @@
-Drive Magic: Allies within[N]
-two tiles deal +3 magical damage.[X]
+Drive Defense: Allies within[N]
+two tiles take -3 physical damage.[X]

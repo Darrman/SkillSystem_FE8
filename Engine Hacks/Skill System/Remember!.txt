@@ -8,5 +8,6 @@ Giving your skill an icon and description won't stop it from working, but it won
 Otherwise, you'll get a glitchy icon and placeholder text.
 Don't forget to edit the skill description CSV so the game can see your description.
 If you're going to have a skill, Nihil will probably negate it. Go to Internals/SkillSystem.event to find the negation list.
+Check "New Skill Swapping.txt" for further information about some more stuff that should be done.
 If all goes well, your skill should function in the game!
 -Darrman

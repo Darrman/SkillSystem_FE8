@@ -1,2 +1,2 @@
-Drive Speed: Allies within[N]
-two tiles gain +3 Attack Speed.[X]
+Drive Strength: Allies within[N]
+two tiles deal +3 physical damage.[X]

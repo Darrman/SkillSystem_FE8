@@ -1,0 +1,2 @@
+Drive Resistance: Allies within[N]
+two tiles take -3 magical damage.[X]

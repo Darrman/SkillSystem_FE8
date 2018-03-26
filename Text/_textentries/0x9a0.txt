@@ -1,2 +1,2 @@
-Drive Strength: Allies within[N]
-two tiles deal +3 physical damage.[X]
+Spur Skill: Adjacent allies[N]
+gain +8 hit, +2 crit.[X]

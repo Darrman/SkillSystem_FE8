@@ -1,2 +1,2 @@
-Drive Resistance: Allies within[N]
-two tiles take -3 magical damage.[X]
+Spur Luck: Allies within two[N]
+tiles gain +3 (crit) avoid, +2 hit.[X]
