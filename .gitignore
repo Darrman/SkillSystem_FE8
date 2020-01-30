@@ -17,10 +17,14 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-#rom stuff
+# rom stuff
 *.gba
 *.sav
 *.sgm
+*.ups
+
+# python cache
+__pycache__
 
 # =========================
 # Operating System Files
