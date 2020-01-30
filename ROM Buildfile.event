@@ -3,6 +3,9 @@
     #include "Custom Definitions.event"
 
     ORG FreeSpace
+
+    #include "repointedTextTable.event"
+
     //Text first for Text ID definitions
     #include "Text/Install Text Data.event"
     MESSAGE Used text space ends at currentOffset
@@ -23,7 +26,6 @@
     #include "Maps/Master Map Installer.event"
     
     MESSAGE Used free space ends at currentOffset
-    MESSAGE Proc_Counter
 #else
     ERROR You are not assembling FE8 events!
 #endif
