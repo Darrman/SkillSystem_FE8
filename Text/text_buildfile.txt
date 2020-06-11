@@ -19,7 +19,20 @@ Learned  [X]
 
 #include "unitmenu_text.txt"
 
-#0xd4c HouseText
+#0xd4c LikesText
+#first text ID in the free block
+Likes:[X]
+
+#0xd4d DislikesText
+[0x9E]i[0x90]li[0x8A][0x85][0x90]:[X]
+
+#0xd4e HeightText
+Height:[X]
+
+#0xd4f AgeText
+Age:[X]
+
+## HouseText
 #first text ID in the free block
 [MidRight][LoadFace][CurrentPortrait]Nothing to see here.[A][X]
 
@@ -44,35 +57,40 @@ Zeke[X]
  Stairs[X]
 
 ## StairsDescText
-Take this staircase to[NL]
+Take this staircase to[N]
 the connecting end.[X]
 
 ## StairsBlockedText
-The staircase is blocked[NL]
+The staircase is blocked[N]
 from the other side.[X]
 
 ## RaidNameText
  Raid[X]
 
 ## RaidDescText
-Destroy this village[NL]
+Destroy this village[N]
 for items and gold.[X]
 
 ## EscapeName
  Escape[X]
 
 ## EscapeDesc
-Have this unit[NL]
+Have this unit[N]
 leave this chapter.[X]
 
 ## ArriveName
  Arrive[X]
 
 ## ArriveDesc
-Complete this chapter[NL]
+Complete this chapter[N]
 by having this unit arrive.[X]
+
+## LordMustEscapeLastText
+This unit must escape last.[X]
 
 ## Mov_Text_ID
 Mov[X]
 
 #include "skilldesc_text.txt"
+
+#include "unitinfo_text.txt"
